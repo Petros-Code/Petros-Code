@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Petros-Code
-- 👀 I’m interested in Sport, dogs and learning
+- 👀 I’m interested in Sport, dogs, learning, collect Magic cards.
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
